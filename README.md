@@ -1,4 +1,4 @@
-1. Project Overview:
+Project Overview:
 This project consists of creating a responsive 5-page personal website using HTML, Bootstrap, CSS,
 and JavaScript. Each page will have a unique purpose, such as showcasing my projects, presenting my skills,
 or allowing visitors to contact me.
